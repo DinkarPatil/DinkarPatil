@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF88&center=true&vCenter=true&width=700&lines=Agentic+AI+Engineer;Building+Multi-Agent+Systems;RAG+%7C+LLMs+%7C+Automation;I+build+AI+systems+that+actually+work" />
 </p>
 
-<h1 align="center">
-  India
-</h1>
-
 [![Followers](https://custom-icon-badges.demolab.com/github/followers/DinkarPatil?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/DinkarPatil?tab=followers)
 [![Stars](https://custom-icon-badges.demolab.com/github/stars/DinkarPatil?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/DinkarPatil?tab=repositories&sort=stargazers)
 
