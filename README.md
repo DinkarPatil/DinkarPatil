@@ -1,11 +1,14 @@
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  DINKAR PATIL  ·  AGENTIC AI ENGINEER  ·  AHMEDABAD, IN         │
-│  [ Building systems that think, reason, and act — not just chat ]│
-└──────────────────────────────────────────────────────────────────┘
-```
+<h1 align="center">Hi 👋, I'm DINKAR PATIL</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF88&center=true&vCenter=true&width=700&lines=Agentic+AI+Engineer;Building+Multi-Agent+Systems;RAG+%7C+LLMs+%7C+Automation;I+build+AI+systems+that+actually+work" />
+</p>
+
+<h1 align="center">
+  India
+</h1>
 
 [![Followers](https://custom-icon-badges.demolab.com/github/followers/DinkarPatil?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/DinkarPatil?tab=followers)
 [![Stars](https://custom-icon-badges.demolab.com/github/stars/DinkarPatil?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/DinkarPatil?tab=repositories&sort=stargazers)
@@ -31,11 +34,10 @@ Focused on: **multi-agent orchestration**, **RAG at production quality**, and **
 
 | ID | Experiment | Stack | Verdict |
 |---|---|---|---|
-| `EXP-001` | **[KhataClerk](https://khataclerk.com)** — OCR → structured extraction → auto-sync with Tally / SAP / ZOHO | Python · LLM · OCR · FastAPI | ✅ `LIVE · 95%+ accuracy` |
-| `EXP-002` | **[Smart Sales System](https://github.com/DinkarPatil/Smart-Sales-Systems)** — Full-stack RAG dashboard with RBAC, SLA handling, and Google Forms webhook | FastAPI · LlamaIndex · Groq (Llama 3) · React/Vite · Tailwind | ✅ `SHIPPED` |
-| `EXP-003` | **Multi-Agent RAG** — LangGraph router → specialized sub-agents (Q&A / summarization / comparison) over FAISS with query rewriting + memory retrieval | LangGraph · LangChain · OpenAI · FAISS · Streamlit | ✅ `VALIDATED` |
-| `EXP-004` | **HR Intelligence System** — YOLOv8 real-time attendance + LLM tool-calling agent over SQL | YOLOv8 · Claude API · Tool Calling · SQL · OpenCV | ✅ `VALIDATED` |
-| `EXP-005` | **[Data Science Projects](https://github.com/DinkarPatil/Data-Science-Projects)** — Applied ML across structured datasets: pipelines, preprocessing, modelling, dashboards | Scikit-learn · TensorFlow · PyTorch · Pandas | ✅ `ONGOING` |
+| `EXP-001` | **[Smart Sales System](https://github.com/DinkarPatil/Smart-Sales-Systems)** — Full-stack RAG dashboard with RBAC, SLA handling, and Google Forms webhook | FastAPI · LlamaIndex · Groq (Llama 3) · React/Vite · Tailwind | ✅ `SHIPPED` |
+| `EXP-002` | **Multi-Agent RAG** — LangGraph router → specialized sub-agents (Q&A / summarization / comparison) over FAISS with query rewriting + memory retrieval | LangGraph · LangChain · OpenAI · FAISS · Streamlit | ✅ `VALIDATED` |
+| `EXP-003` | **HR Intelligence System** — YOLOv8 real-time attendance + LLM tool-calling agent over SQL | YOLOv8 · Claude API · Tool Calling · SQL · OpenCV | ✅ `VALIDATED` |
+| `EXP-004` | **[Data Science Projects](https://github.com/DinkarPatil/Data-Science-Projects)** — Applied ML across structured datasets: pipelines, preprocessing, modelling, dashboards | Scikit-learn · TensorFlow · PyTorch · Pandas | ✅ `ONGOING` |
 
 ---
 
