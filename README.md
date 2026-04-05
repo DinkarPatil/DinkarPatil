@@ -28,12 +28,12 @@ Focused on: **multi-agent orchestration**, **RAG at production quality**, and **
 
 > Every project starts with a hypothesis. Here's the current board.
 
-| ID | Experiment | Stack | Verdict |
+| Project | Description | Stack | Verdict |
 |---|---|---|---|
-| `EXP-001` | **[Smart Sales System](https://github.com/DinkarPatil/Smart-Sales-Systems)** — Full-stack RAG dashboard with RBAC, SLA handling, and Google Forms webhook | FastAPI · LlamaIndex · Groq (Llama 3) · React/Vite · Tailwind | ✅ `SHIPPED` |
-| `EXP-002` | **Multi-Agent RAG** — LangGraph router → specialized sub-agents (Q&A / summarization / comparison) over FAISS with query rewriting + memory retrieval | LangGraph · LangChain · OpenAI · FAISS · Streamlit | ✅ `VALIDATED` |
-| `EXP-003` | **HR Intelligence System** — YOLOv8 real-time attendance + LLM tool-calling agent over SQL | YOLOv8 · Claude API · Tool Calling · SQL · OpenCV | ✅ `VALIDATED` |
-| `EXP-004` | **[Data Science Projects](https://github.com/DinkarPatil/Data-Science-Projects)** — Applied ML across structured datasets: pipelines, preprocessing, modelling, dashboards | Scikit-learn · TensorFlow · PyTorch · Pandas | ✅ `ONGOING` |
+| **[Smart Sales System](https://github.com/DinkarPatil/Smart-Sales-Systems)** | Full-stack RAG dashboard with RBAC, SLA handling, and Google Forms webhook | FastAPI · LlamaIndex · Groq (Llama 3) · React/Vite · Tailwind | 🔄 `ONGOING` · 🚀 [View Repo](https://github.com/DinkarPatil/Smart-Sales-Systems) |
+| **Multi-Agent RAG** | LangGraph router → specialized sub-agents (Q&A / summarization / comparison) over FAISS with query rewriting + memory retrieval | LangGraph · LangChain · OpenAI · FAISS · Streamlit | ✅ `VALIDATED` |
+| **HR Intelligence System** | YOLOv8 real-time attendance + LLM tool-calling agent over SQL | YOLOv8 · Claude API · Tool Calling · SQL · OpenCV | ✅ `VALIDATED` |
+| **[Data Science Projects](https://github.com/DinkarPatil/Data-Science-Projects)** | Applied ML across structured datasets: pipelines, preprocessing, modelling, dashboards | Scikit-learn · TensorFlow · PyTorch · Pandas | 🔄 `ONGOING` · 🚀 [View Repo](https://github.com/DinkarPatil/Data-Science-Projects) |
 
 ---
 
@@ -121,6 +121,6 @@ If you're building in **agentic AI, multi-agent systems, LLM infrastructure, or 
 [![Email](https://img.shields.io/badge/Gmail-iasdinkarpatil@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iasdinkarpatil@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-DinkarPatil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DinkarPatil)
 
-*Open to early-stage AI-native startups · Remote or Ahmedabad*
+*Open to hard problems, high-impact systems, and teams that care about building real AI — not demos.*
 
 </div>
