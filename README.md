@@ -101,7 +101,7 @@ Focused on: **multi-agent orchestration**, **RAG at production quality**, and **
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="![Stats](https://github-readme-stats.vercel.app/api?username=DinkarPatil&show_icons=true&theme=dark)" />
+  <source media="(prefers-color-scheme: dark)" srcset="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinkarPatil&layout=compact)" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DinkarPatil&bg_color=f0f0f0&color=006644&line=006644&point=000000&area=true&hide_border=true" />
   <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DinkarPatil&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" />
 </picture>
